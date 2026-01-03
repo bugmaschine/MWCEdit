@@ -1,4 +1,4 @@
-![screenshot](./img-2026-01-03-17-52-44.png)
+<img width="1332" height="1071" alt="image" src="https://github.com/user-attachments/assets/e7440430-720c-4802-8d92-26850207a816" />
 
 # MWCEdit
 
