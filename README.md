@@ -33,18 +33,7 @@ https://github.com/bugmaschine/AGSE/releases
 
 ## Roadmap
 
-Planned features include:
-
-- Additional smart quick actions  
-  - Reparing car componenets
-  - Sobering the player up
-  - An map for finding items
-  - Diagnosing the Car
-- Improved save details view
-- General UI polish and quality-of-life improvements
-- Profile Presets
-- Backup handling
-- VIN Editing
+The Roadmap can be seen on [Discord](https://discord.gg/yewzNFdkSr)
   
 ---
 
