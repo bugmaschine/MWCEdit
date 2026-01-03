@@ -29,7 +29,7 @@ Join the [Discord](https://discord.gg/yewzNFdkSr) to make suggestions and for he
 
 Prebuilt binaries are available on the GitHub Releases page:
 
-https://github.com/bugmaschine/MWCEdit/releases
+https://github.com/bugmaschine/AGSE/releases
 
 ## Roadmap
 
@@ -51,7 +51,7 @@ Planned features include:
 
 ## Disclaimer
 
-MWCEdit is not affiliated with Amistech Games.
+AGSE is not affiliated with Amistech Games.
 
 Always back up your save files before editing.  
 Use this tool at your own risk.
