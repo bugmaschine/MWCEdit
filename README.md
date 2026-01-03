@@ -1,4 +1,4 @@
-![screenshot](./assets/screenshot.png)
+![screenshot](./img-2026-01-03-17-52-44.png)
 
 # MWCEdit
 
