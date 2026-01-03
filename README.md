@@ -1,8 +1,8 @@
 <img width="1332" height="1071" alt="image" src="https://github.com/user-attachments/assets/e7440430-720c-4802-8d92-26850207a816" />
 
-# MWCEdit
+# AGSE
 
-**MWCEdit** is a modern, crossplatform save game editor for **My Summer Car** and **My Winter Car**.
+**AGSE** is a modern, crossplatform save game editor for **My Summer Car** and **My Winter Car**.
 
 It has a simple goal: make save editing safe, clear, and easy to use, without exposing raw values or risking save corruption.
 
