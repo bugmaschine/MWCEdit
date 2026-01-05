@@ -1,5 +1,4 @@
-<img width="1332" height="1069" alt="image" src="https://github.com/user-attachments/assets/ff5c62a8-9590-4d70-83d4-43061080d87c" />
-
+<img width="1378" height="1212" alt="image" src="https://github.com/user-attachments/assets/ff4ef1bf-70ba-4fa1-b09e-980927c4fab7" />
 # AGSE
 
 **AGSE** is a modern, crossplatform save game editor for **My Summer Car** and **My Winter Car**.
@@ -22,6 +21,8 @@ Join the [Discord](https://discord.gg/yewzNFdkSr) to make suggestions and for he
   Native Windows and Linux support
   
 - Update checking
+
+- VIN Viewing and Editing
 
 ---
 
